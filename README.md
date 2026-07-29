@@ -1,2 +1,2 @@
 # FitLife
-this is about health&amp;fitness management system
+This is about health&amp;fitness management system
