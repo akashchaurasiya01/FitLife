@@ -1,2 +1,3 @@
 # FitLife
-This is about health&fitness management system
+This Is Project About Health & Fitness Management System.
+
